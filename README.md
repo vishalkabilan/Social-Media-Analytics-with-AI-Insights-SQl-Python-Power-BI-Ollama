@@ -111,7 +111,7 @@ SocialMediaAnalyticsAI/
 ├── requirements.txt
 ├── SETUP.md
 ├── README.md
-└── screenshots (optional)
+└── screenshots
 ```
 
 ---
