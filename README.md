@@ -253,16 +253,16 @@ Operating Systems:
 
 ## Author
 
-Vishal Kabilan
+VISHAL KABILAN K
 
 Project Type:
 Data Analytics Project
 
 Skills Demonstrated:
-Python
-Power BI
-Data Analysis
-AI Integration
+Python |
+Power BI |
+Data Analysis |
+AI Integration |
 LLM Usage
 
 ---
