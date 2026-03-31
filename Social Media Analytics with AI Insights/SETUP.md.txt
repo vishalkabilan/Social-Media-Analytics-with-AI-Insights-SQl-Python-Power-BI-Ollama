@@ -1,0 +1,71 @@
+Installation
+============
+
+1 Install Python
+2 pip install -r requirements.txt
+3 Install Ollama
+4 Run: ollama run mistral
+5 Run project
+
+
+
+
+PROJECT REQUIREMENTS
+====================
+
+pandas>=2.0.0
+matplotlib>=3.7.0
+scikit-learn>=1.3.0
+
+Software Requirements:
+----------------------
+Python 3.10 or higher
+Ollama (latest version)
+
+Python Libraries Required:
+--------------------------
+pandas
+matplotlib
+scikit-learn
+
+Install Python libraries using:
+
+pip install -r requirements.txt
+
+Ollama Installation:
+--------------------
+Download Ollama from:
+https://ollama.com
+
+After installation run:
+
+ollama run mistral
+
+This will download the required LLM model.
+
+Hardware Requirements:
+----------------------
+Minimum RAM: 8GB
+Recommended RAM: 16GB
+
+Disk Space:
+-----------
+At least 10GB free space for models.
+
+Operating System:
+-----------------
+Windows 10/11
+Linux
+MacOS
+
+Project Files Required:
+-----------------------
+social_media_data.csv
+ai_insights.py
+clustered_data.csv (optional)
+
+Optional Improvements:
+----------------------
+Power BI Desktop (for dashboard visualization)
+
+End of Requirements
