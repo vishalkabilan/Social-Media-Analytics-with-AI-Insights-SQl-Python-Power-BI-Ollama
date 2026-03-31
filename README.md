@@ -134,7 +134,7 @@ python --version
 Install dependencies:
 
 ```
-pip install -r requirements.txt
+pip install -r SETUP.md.txt
 ```
 
 ---
